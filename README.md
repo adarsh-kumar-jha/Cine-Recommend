@@ -102,9 +102,4 @@ Contributions are welcome! Feel free to:
 ---
   
 
-- [The Movie Database (TMDB)](https://www.themoviedb.org/) for providing the dataset.  
-- Open-source contributors for the libraries used in this project.  
 
----
-
-Let me know if you'd like further customization or additions!
